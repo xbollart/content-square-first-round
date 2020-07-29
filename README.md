@@ -29,10 +29,12 @@ This file is given in input:
 LFLFLFLFF
 33E
 FFRFFRFRRF
-This output is expected (final positions of mowers): 13N
+```
+This output is expected (final positions of mowers): 
+```
+13N
 51E
 ```
-
 
 
 ### Execution
