@@ -24,16 +24,16 @@ Design and write a program implementing the above specifications and validating 
 ### TEST
 This file is given in input: 
 ```
-55
-12N
+5 5
+1 2 N
 LFLFLFLFF
-33E
+3 3 E
 FFRFFRFRRF
 ```
 This output is expected (final positions of mowers): 
 ```
-13N
-51E
+1 3 N
+5 1 E
 ```
 
 
